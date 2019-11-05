@@ -1,0 +1,10 @@
+tqdm==4.36.1
+numpy==1.17.3
+opencv-python==3.4.7.28
+keras==2.3.1
+tensorflow-gpu==1.15.0
+pillow==6.2.1
+wand==0.5.7
+pandas==0.25.2
+matplotlib==3.1.1
+pydot==1.4.1
