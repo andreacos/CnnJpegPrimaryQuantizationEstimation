@@ -39,7 +39,7 @@ We tested our codes on Python 3.5 and Python 3.6 under Ubuntu 16.04 and 18.04 (6
 
 ## Preparing datasets
 
-We used a copy of the [RAISE8K dataset](http://mmlab.science.unitn.it/RAISE/), which was preliminarily 
+We used a copy of the [RAISE8K dataset](http://loki.disi.unitn.it/RAISE/), which was preliminarily 
 (and randomly) split into two sub-folders:
 * **Train**: 7000 TIF images
 * **Test**: 1157 TIF images
