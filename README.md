@@ -16,7 +16,7 @@ Y.Niu, B. Tondi, Y.Zhao, M.Barni:
 IEEE Signal Processing Letters, 2019, November
 Available on ArXiv: [arXiv preprint:1908.04259](https://arxiv.org/abs/1908.04259)
     
-The sofware estimates the primary quantization matrix of a Double JPEG image (either aligned and not aligned) 
+The software estimates the primary quantization matrix of a Double JPEG image (either aligned and not aligned) 
 based on a Convolutional Neural Network. The CNN-based estimator works with a 64x64 input patch size. 
 The first 15 coefficients of the primary quantization matrix, in zig zag order, are returned by the software.
 
